@@ -1,7 +1,7 @@
 package main
 
 import (
-	"go-api-proxy/proxy"
+	"github.com/xxl6097/go-api-proxy/proxy"
 	"net/http"
 )
 
